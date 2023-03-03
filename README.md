@@ -37,7 +37,6 @@ Click start kernal and `run each cell` to see the result
 **or** `run all` to see all results.
 
 ## Contributors
-## Members
 - Kanyaluck&ensp;Chimchome [(Parefair)](https://github.com/Parefair)
 - Boonyarit&ensp;Samran [(QuartzQw)](https://github.com/QuartzQw)
 - Warisara&ensp;Patib [(Cocoa2304)](https://github.com/Cocoa2304)
